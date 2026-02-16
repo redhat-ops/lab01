@@ -188,4 +188,8 @@ ansible-playbook -i inventory/hosts.yml playbook.yml
 
 ## Architecture
 
-![Lab 02 Architecture](redhat-ops-lab-2.drawio.png)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="redhat-ops-lab-2-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="redhat-ops-lab-2-light.png">
+  <img alt="Lab 02 Architecture" src="redhat-ops-lab-2-light.png">
+</picture>
